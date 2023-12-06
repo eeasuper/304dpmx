@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class HelloServlet
  */
-@WebServlet(description = "My First Servlet", urlPatterns = { "/" , "/HelloServlet"})
+@WebServlet(description = "My First Servlet", urlPatterns = { "/HelloServlet"})
 public class HelloServlet extends HttpServlet {
 	int num = 0;
 
