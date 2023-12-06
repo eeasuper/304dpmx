@@ -11,7 +11,7 @@
 
   <name>cosc304lab10 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://c304dpmx-d291c436700b.herokuapp.com/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -32,9 +32,6 @@
 	    <version>6.1.0-M1</version>
 	    <scope>provided</scope>
 	</dependency>
-
-	
-
   </dependencies>
 
   <build>
