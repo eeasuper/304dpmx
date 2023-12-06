@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* HelloServlet
+web: java -cp target/cosc304lab10/WEB-INF/classes/*
