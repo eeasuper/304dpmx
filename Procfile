@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.304dpmx.HelloServlet
+web: java -cp target/classes/:target/dependency/* HelloServlet
