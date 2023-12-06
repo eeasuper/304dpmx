@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes/*
+web: java -cp target/classes/:target/dependency/* com.304dpmx.HelloServlet
