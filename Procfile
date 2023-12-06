@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes/:target/dependency/* com.304dpmx.index.jsp
+web: java $JAVA_OPTS -cp target/classes/:target/dependency/* 
